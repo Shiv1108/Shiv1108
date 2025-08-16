@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me  
 - 🌱 Currently learning: *AI/ML, Data Science, Web Dev Basics*  
-- 💡 Skilled in: *Python, HTML, CSS, Java (Basics)*  
+- 💡 Skilled in: *Python, HTML, CSS, Java *  
 - 🎯 Goal: To become a *Machine Learning Engineer*  
 - 📚 Always curious about *AI, Algorithms, and Open Source*  
 
@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shiv1108&show_icons=true&theme=radical" alt="GitHub Stats" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv1108E&theme=radical" alt="Streak Stats" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv1108&theme=radical" alt="Streak Stats" />  
 </p>
 
 ---
