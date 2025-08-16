@@ -32,7 +32,8 @@
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](www.linkedin.com/in/shivank-tiwari-86b080360)](YOUR_LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shivank-tiwari-86b080360)  
+
 
 
 ---
