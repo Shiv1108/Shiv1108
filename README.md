@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me  
 - 🌱 Currently learning: *AI/ML, Deep Learning, Data Science, & Web Dev Basics*  
-- 💡 Skilled in: *Python, SQL, HTML, CSS, Java *  
+- 💡 Skilled in: *Python, SQL, HTML, CSS, Java*  
 - 🎯 Goal: To become a *Machine Learning Engineer* who builds impactful AI solutions 
 - 📚 Always curious about *AI, Algorithms, and Open Source*  
 
